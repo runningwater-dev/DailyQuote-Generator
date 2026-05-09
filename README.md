@@ -1,4 +1,4 @@
-#https://daily-quote-generator-three.vercel.app/
+# https://daily-quote-generator-three.vercel.app/
 ## Features
 - Fetches random quotes from a live API
 - Displays quote and author dynamically
